@@ -21,8 +21,8 @@
 #############################################################################
 {
     'name': 'Theme LevelUp',
-    'version': '15.0.1.0.0',
-    'category': 'Theme/Corporate',
+    'version': '15.0',
+    'category': '',
     'summary': 'The perfect website theme for your growing business'
                'can used to apply new design to website and adding more menus '
                'and feature',
